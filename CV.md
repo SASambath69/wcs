@@ -46,16 +46,13 @@ Aide-Comptable - CDD Temps Plein <br/>
 _Juillet 2014 - Septembre 2014_
 
 __PEDERSEN CARBURE ET DIAMANT (Chassieu)__ <br/>
-Aide-Comptable - CDD Temps Plein <br/>
-_Juin 2014_
+Aide-Comptable - CDD Temps Plein & Temps Partiel <br/>
+_Juin 2014_ <br/>
+_Décembre 2012 - Décembre 2013_
 
 __VEOLIA EAU (Vaulx-en-Velin)__ <br/>
 Employé Administratif - CDD Temps Plein <br/>
 _Avril 2014 - Mai 2014_
-
-__PEDERSEN CARBURE ET DIAMANT (Chassieu)__ <br/>
- Aide-Comptable - CDD Temps Partiel <br/>
-_Décembre 2012 - Décembre 2013_
 
 __CENTRE LEON BERARD (Lyon)__ <br/>
 Technicien Administratif - CDD Temps Partiels & Temps Plein <br/>
