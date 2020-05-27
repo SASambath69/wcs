@@ -16,46 +16,46 @@ Email : sambath.sous@hotmail.fr
 ## Formation
 
 __Wild Code School (Lyon)__ <br/>
-Formation Data Analyst <br/>
+_Formation Data Analyst_ <br/>
 _2020 (En cours)_
 
 __IGEFI (Levallois-Perret)__ <br/>
-Diplôme Supérieur de Comptabilité et de Gestion <br/>
+_Diplôme Supérieur de Comptabilité et de Gestion_ <br/>
 _2014 - 2016_
 
 __Université Jean Moulin (Lyon 3)__ <br/>
-Diplôme de Comptabilité et de Gestion <br/>
+_Diplôme de Comptabilité et de Gestion_ <br/>
 _2010 - 2012_
 
 __Lycée Pierre Brossolette (Villeurbanne)__ <br/>
-Brevet de Technicien Supérieur - Comptabilité et Gestion des Organisations <br/>
+_Brevet de Technicien Supérieur - Comptabilité et Gestion des Organisations_ <br/>
 _2008 - 2010_
 
 ## Expérience professionnelle
 
 __VERTYCAL AUDIT (Brignais)__ <br/>
-Collaborateur Audit - CDI Temps Plein <br/>
+_Collaborateur Audit - CDI Temps Plein_ <br/>
 _Novembre 2016 - Février 2020_
 
 __PRICEWATERHOUSECOOPERS AUDIT (Neuilly-sur-Seine)__ <br/>
-Collaborateur Audit Assistant - Contrat en Alternance <br/>
+_Collaborateur Audit Assistant - Contrat en Alternance_ <br/>
 _Octobre 2014 - Septembre 2016_
 
 __IVECO L.V.I (Saint-Priest)__ <br/>
-Aide-Comptable - CDD Temps Plein <br/>
+_Aide-Comptable - CDD Temps Plein_ <br/>
 _Juillet 2014 - Septembre 2014_
 
 __PEDERSEN CARBURE ET DIAMANT (Chassieu)__ <br/>
-Aide-Comptable - CDD Temps Partiel & Temps Plein <br/>
+_Aide-Comptable - CDD Temps Partiel & Temps Plein_ <br/>
 _Juin 2014_ <br/>
 _Décembre 2012 - Décembre 2013_
 
 __VEOLIA EAU (Vaulx-en-Velin)__ <br/>
-Employé Administratif - CDD Temps Plein <br/>
+_Employé Administratif - CDD Temps Plein_ <br/>
 _Avril 2014 - Mai 2014_
 
 __CENTRE LEON BERARD (Lyon)__ <br/>
-Technicien Administratif - CDD Temps Partiels & Temps Plein <br/>
+_Technicien Administratif - CDD Temps Partiels & Temps Plein_ <br/>
 _Novembre 2012 - Décembre 2012_ <br/>
 _Juin 2011 - Février 2012_
 
