@@ -37,7 +37,7 @@ __VERTYCAL AUDIT (Brignais)__ <br/>
 Collaborateur Audit - CDI Temps Plein <br/>
 _Novembre 2016 - Février 2020_
 
-__PRICEWATERHOUSECOOPERS AUDIT (Neuilly_sur_Seine)__ <br/>
+__PRICEWATERHOUSECOOPERS AUDIT (Neuilly-sur-Seine)__ <br/>
 Collaborateur Audit Assistant - Contrat en Alternance <br/>
 _Octobre 2014 - Septembre 2016_
 
