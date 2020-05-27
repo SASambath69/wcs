@@ -46,7 +46,7 @@ Aide-Comptable - CDD Temps Plein <br/>
 _Juillet 2014 - Septembre 2014_
 
 __PEDERSEN CARBURE ET DIAMANT (Chassieu)__ <br/>
-Aide-Comptable - CDD Temps Plein & Temps Partiel <br/>
+Aide-Comptable - CDD Temps Partiel & Temps Plein <br/>
 _Juin 2014_ <br/>
 _Décembre 2012 - Décembre 2013_
 
