@@ -59,6 +59,13 @@ _Technicien Administratif - CDD Temps Partiels & Temps Plein_ <br/>
 _Novembre 2012 - Décembre 2012_ <br/>
 _Juin 2011 - Février 2012_
 
+## Compétences
+
+__Logiciels :__ Pack Office, Anaconda, Sage, RevisAudit Premium <br/>
+__Collecte et Traitement des données :__ Python, NumPy, Pandas <br/>
+__Data Visualisation :__ Matplotlib, Seaborn, Plotly Express <br/>
+__Machine Learning :__ Scikit-Learn
+
 ## Hobbies
 
 __SPORT__ <br/>
