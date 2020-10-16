@@ -1,6 +1,6 @@
 ## Présentation
 
-![Profile](https://media-exp1.licdn.com/dms/image/C5603AQGWAtYqp4V4oQ/profile-displayphoto-shrink_200_200/0?e=1596067200&v=beta&t=ulJSkGr8crvnNguJqRiOHEAFUwbFos_sIVaGALgrElI)
+![Profile](https://raw.githubusercontent.com/SASambath69/wild/master/Alexandre%20SOUS%20Profile.jpg)
 
 Alexandre SOUS <br/>
 Permis B <br/>
