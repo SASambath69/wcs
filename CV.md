@@ -11,13 +11,15 @@ Email : sambath.sous@hotmail.fr
 > _Issu d'une formation en comptabilité, j'ai exercé pendant près de 2 ans des postes administratifs et comptables au sein
 > d'entreprises diverses. Puis pendant 5 ans, j'ai travaillé dans l'audit comptable et financier, dont 2 ans au sein d'un
 > grand groupe. Aujourd'hui, je souhaite me réorienter dans les métiers de l'analyse et la visualisation de données.
-> Je suis à l'écoute de toute opportunité professionnelle (stages, emplois...) pouvant démarrer dès le mois de Septembre 2020_.
+> J'ai ainsi suivi une formation intensive de 5 mois pour me préparer au mieux à ce métier_.
+
+---
 
 ## Formation
 
 __Wild Code School (Lyon)__ <br/>
 _Formation Data Analyst_ <br/>
-_2020 (En cours)_
+_2020_
 
 __IGEFI (Levallois-Perret)__ <br/>
 _Diplôme Supérieur de Comptabilité et de Gestion_ <br/>
@@ -31,7 +33,13 @@ __Lycée Pierre Brossolette (Villeurbanne)__ <br/>
 _Brevet de Technicien Supérieur - Comptabilité et Gestion des Organisations_ <br/>
 _2008 - 2010_
 
+---
+
 ## Expérience professionnelle
+
+__LIFEXTEND (Lyon)__ <br/>
+_Data Analyst - Stage Temps Partiel_ <br/>
+_Septembre 2020 - Octobre 2020_
 
 __VERTYCAL AUDIT (Brignais)__ <br/>
 _Collaborateur Audit - CDI Temps Plein_ <br/>
@@ -59,12 +67,16 @@ _Technicien Administratif - CDD Temps Partiels & Temps Plein_ <br/>
 _Novembre 2012 - Décembre 2012_ <br/>
 _Juin 2011 - Février 2012_
 
+---
+
 ## Compétences
 
 __Logiciels :__ Pack Office, Anaconda, Sage, RevisAudit Premium <br/>
 __Collecte et Traitement des données :__ Python, NumPy, Pandas <br/>
 __Data Visualisation :__ Matplotlib, Seaborn, Plotly Express <br/>
 __Machine Learning :__ Scikit-Learn
+
+---
 
 ## Hobbies
 
@@ -73,3 +85,7 @@ Tennis de Table - Pétanque
 
 __MUSIQUE__ <br/>
 Variétés Américaines et Japonaises
+
+---
+
+__Pour plus de détails sur mon parcours, n'hésitez pas à consulter mon profil [LinkedIn](https://www.linkedin.com/in/alexandre-sous-0aa22a86/)__
