@@ -81,7 +81,7 @@ __Machine Learning :__ Scikit-Learn
 ## Hobbies
 
 __SPORT__ <br/>
-Tennis de Table - Pétanque
+Tennis de Table
 
 __MUSIQUE__ <br/>
 Variétés Américaines et Japonaises
