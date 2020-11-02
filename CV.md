@@ -11,7 +11,7 @@ Email : sambath.sous@hotmail.fr
 > _Issu d'une formation en comptabilité, j'ai exercé pendant près de 2 ans des postes administratifs et comptables au sein
 > d'entreprises diverses. Puis pendant 5 ans, j'ai travaillé dans l'audit comptable et financier, dont 2 ans au sein d'un
 > grand groupe. Aujourd'hui, je souhaite me réorienter dans les métiers de l'analyse et la visualisation de données.
-> J'ai ainsi suivi une formation intensive de 5 mois pour me préparer au mieux à ce métier_.
+> J'ai ainsi suivi une formation intensive de 5 mois pour me préparer au mieux au métier de Data Analyst_.
 
 ---
 
@@ -71,10 +71,12 @@ _Juin 2011 - Février 2012_
 
 ## Compétences
 
-__Logiciels :__ Pack Office, Anaconda, Sage, RevisAudit Premium <br/>
-__Collecte et Traitement des données :__ Python, NumPy, Pandas <br/>
-__Data Visualisation :__ Matplotlib, Seaborn, Plotly Express <br/>
-__Machine Learning :__ Scikit-Learn
+__Logiciels :__ Pack Office, Anaconda <br/>
+__Collecte de données :__ SQL, MongoDB, Web Scraping, Python <br/>
+__Traitement des données :__ Python, NumPy, Pandas, NLP, Excel, Google Sheets <br/>
+__Data Visualisation :__ Matplotlib, Seaborn, Plotly Express, Tableau, Power BI <br/>
+__Machine Learning :__ Scikit-Learn (Régression, Classification, Clustering) <br/>
+__Méthode Agile :__ SCRUM
 
 ---
 
@@ -88,4 +90,4 @@ Variétés Américaines et Japonaises
 
 ---
 
-__Pour plus de détails sur mon parcours, n'hésitez pas à consulter mon profil [LinkedIn](https://www.linkedin.com/in/alexandre-sous-0aa22a86/)__
+__Pour plus de détails sur mon parcours, n'hésitez pas à consulter mon profil [LinkedIn](https://www.linkedin.com/in/alexandre-sous/)__
